@@ -1,0 +1,7 @@
+{
+	"name": "UnlockableDefaults",
+	"version_number": "0.0.1",
+	"website_url": "https://github.com/AndreyMrovol/LethalUnlockableDefaults",
+	"description": "Mod for saving your furniture's position.",
+	"dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
